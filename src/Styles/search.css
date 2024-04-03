@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.search-contain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1rem 0;
+}
+.form-input{
+    width: 47vw;
+    height: 40px;
+    background-color: transparent;
+    color: gray;
+    border-radius: 20px;
+    margin-left: 2.7rem;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.1rem;
+}
+header p{
+    font-weight: 600;
+    font-size: 20px;
+}

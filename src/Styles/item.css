@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h4 {
+    font-size: 40px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 150px 0;
+    margin: 0px auto;
+    font-family: sans-serif;
+    margin: 0 50px;
+  }
+.item{
+    font-size: 22px;
+    font-weight: bold;
+    background-color: rgba(248, 221, 174, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 17px;
+    /* margin: 0 auto; */
+    margin: 40px 50px;
+    padding: 20px 32px;
+    opacity: 0.8;
+
+}
+.i1{
+    background-image: url(../photos-lib/vege.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i2{
+    background-image: url(../photos-lib/tomatoes.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i3{
+    background-image: url(../photos-lib/Apple.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i4{
+    background-image: url(../photos-lib/bread.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i5{
+    background-image: url(../photos-lib/brocoli.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i6{
+    background-image: url(../photos-lib/capsicum.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i7{
+    background-image: url(../photos-lib/Apple.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.i8{
+    background-image: url(../photos-lib/bread.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
